@@ -4,12 +4,13 @@ body {
 }
 
 
-
+/* styles for image on business card */
 .avatar {
     width: 150px;
     border-radius: 50%;
 }
 
+/* main styles for card */
 .card {
     width: 400px;
     margin: 0 auto;
